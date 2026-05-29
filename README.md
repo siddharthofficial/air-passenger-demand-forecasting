@@ -262,7 +262,7 @@ These visualizations help assess model stability, forecasting quality, and error
 ```text
 air-passenger-demand-forecasting/
 │
-├── air-passenger-usecase.ipynb
+├── air-passenger-notebook.ipynb
 ├── requirements.txt
 ├── README.md
 │
